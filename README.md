@@ -184,4 +184,4 @@ Built by [Krinal Mehta](https://krinalmehta.com) ([@krinalme](https://github.com
 
 If this helps you ship a more secure product, that's the whole point.
 
-[Website](https://krinalmehta.com) | [LinkedIn](https://linkedin.com/in/krinalme) | [GitHub](https://github.com/krinalme)
+[Website](https://krinalmehta.com) | [LinkedIn](https://linkedin.com/in/krinal) | [GitHub](https://github.com/krinalme)
